@@ -1,6 +1,6 @@
 function calculateSGPA() {
     var marks = [];
-    var subjects = ["21CS51", "21CS52", "21CS53", "21CS54", "21CSL55", "21RM156", "21CIV57", "21CS582"];
+    var subjects = ["21CS51", "21CS52", "21CS53", "21CS54", "21CSL55", "21RMI56", "21CIV57", "21CS582"];
 
     for (var i = 0; i < subjects.length; i++) {
         var subjectCode = subjects[i];
